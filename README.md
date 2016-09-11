@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Vulcan's Site</title>
+  <title>nullreff</title>
 </head>
 <body>
-  <h1>Vulcan's Site</h1>
-  <p>Welcome to my site</p>
+  <h1>no reference</h1>
+  <p>~*n</p>
 </body>
 </html>
